@@ -1,0 +1,111 @@
+body {
+  font-family: Proza Libre, sans-serif;
+  padding: 0px;
+  width: 100%;
+  background-color: papayawhip; 
+  margin: 0px auto;
+}
+
+nav {
+  font-family: Quicksand, sans-serif;
+  border-top: 8px solid black;
+  border-bottom: 1px dotted black;
+  padding: 20px;
+  text-align: center;
+}
+
+article {
+  max-width: 100%;
+  justify-content: center;
+  margin-top: 2%;
+}
+
+header {
+  font-family: Proza Libre, sans-serif;
+}
+
+img {
+  display:  block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.byline {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 46px;
+  font-weight: bolder;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-family: Quicksand, sans-serif;
+  font-size: 56px;
+}
+
+.story_copy {
+  font-size: 18px;
+}
+
+.caption {
+  font-size: 14px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px;
+  color: slategray;
+}
+
+.story_image {
+  width: 100%;
+}
+
+.float-end {
+  width: 65%;
+  margin: 10px;
+}
+
+.ent-pullquote-text {
+    font-family: Proza Libre, sans-serif;
+    font-size: 2.2rem;
+    line-height: 1.2em;
+    margin-bottom: 15px;
+    font-weight: bold;
+    padding-top: 0.5em;
+}
+
+.ent-pullquote-square {
+    background-color: #2f778b; 
+    width: 5em;
+    height: 16px;
+    top: -1.1em;
+    left: 0;
+    box-sizing: border-box;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a:link {
+  color: #2f778b;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #2f778b;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #2f778b;
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+
